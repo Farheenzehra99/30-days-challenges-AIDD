@@ -79,3 +79,29 @@ The developers who succeed in this era will be those who master:
 
 The future is not about **humans vs AI** —  
 it is **humans + AI**, building better software together.
+
+# 🧠 Self-Test (MCQs)
+
+ **1️⃣ What is the main purpose of the AI-Native Era?**  
+✔  **b) Empower developers through AI tools**
+
+---
+
+ **2️⃣ What defines an AI-driven developer?**  
+✔  **b) Creates context-aware prompts**
+
+---
+
+ **3️⃣ What does “AIDD” stand for?**  
+✔  **b) AI-Driven Development**
+
+---
+
+ **4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?**  
+✔  **b) Evaluating and improving AI outputs**
+
+---
+
+ **5️⃣ What should developers focus on in the AI era?**  
+✔  **b) Building reasoning + evaluation skills**
+
