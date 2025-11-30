@@ -98,15 +98,6 @@ Ask Gemini:
 The **GitHub MCP Server** is now fully integrated with the **Gemini CLI**, enabling seamless AI-driven access to my GitHub repositories.
 
 ---
-If you want the same in:
-
-✨ Docusaurus Blog
-✨ GitHub Wiki format
-✨ More icons + badges
-
-Just tell me!
-
-
 
 
 
